@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Promaniak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="confirmation">Are you sure you want to delete your account?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="confirmation_label">Confirmation</string>
+    <string name="add">Add</string>
+    <string name="name">Name</string>
+    <string name="userlist">User List</string>
+    <string name="addnewuser">Add new user</string>
+    <string name="edituser">Edit user</string>
+</resources>
